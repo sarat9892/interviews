@@ -2,7 +2,7 @@
 
 ##You either win or you learn something
 
-### Mantel Group - ML Engineer
+### 1. Mantel Group - ML Engineer
 **Task**: An inplementation of a Kohonen Map was given and the challenge was to make it more efficient
 **Interview Outcome**: Miserable failure! XD
 
